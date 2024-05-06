@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consecionaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d6ddd3e5177a577dbb7660f7f70b0bf9f789a32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab9c84f992b37d0c76315d78a73778862a0f6cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("consecionaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consecionaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
