@@ -1,0 +1,14 @@
+C:\Users\rafae\consecionaria\bin\Debug\net8.0\consecionaria.exe
+C:\Users\rafae\consecionaria\bin\Debug\net8.0\consecionaria.deps.json
+C:\Users\rafae\consecionaria\bin\Debug\net8.0\consecionaria.runtimeconfig.json
+C:\Users\rafae\consecionaria\bin\Debug\net8.0\consecionaria.dll
+C:\Users\rafae\consecionaria\bin\Debug\net8.0\consecionaria.pdb
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.AssemblyInfoInputs.cache
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.AssemblyInfo.cs
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.csproj.CoreCompileInputs.cache
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.dll
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\refint\consecionaria.dll
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.pdb
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\consecionaria.genruntimeconfig.cache
+C:\Users\rafae\consecionaria\obj\Debug\net8.0\ref\consecionaria.dll
